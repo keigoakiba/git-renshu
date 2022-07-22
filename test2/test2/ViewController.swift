@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func changeColor(_ sender: Any) {
-        view.backgroundColor = UIColor.red
+        view.backgroundColor = UIColor.white
     }
     
     @IBAction func changeColor2(_ sender: Any) {
